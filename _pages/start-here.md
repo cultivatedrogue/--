@@ -5,9 +5,13 @@ permalink: /start/
 
 ## Hello Annelise! I have a game for you. Replace the letters of the page address with the first letter of each paragraph.
 To practice: this
+
 Paragraph would lead you to
-a page link that you 
+
+a page link that you
+
 generally wouldn't be able to
+
 easily predict.
 
 ### You should get the link cultivatedrogue.github.io/--/page from that one.
