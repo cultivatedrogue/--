@@ -14,7 +14,7 @@ generally wouldn't be able to
 
 easily predict.
 
-### You should get the link cultivatedrogue.github.io/--/page from that one.
+### You should get the link cultivatedrogue.github.io/game/page from that one.
 
 ### So for real: 
 
