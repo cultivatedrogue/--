@@ -4,7 +4,7 @@ permalink: /start/
 ---
 
 ## Hello Annelise! I have a game for you. Replace the letters of the page address with the first letter of each paragraph.
-To practice: this
+## To practice: this
 
 Paragraph would lead you to
 
